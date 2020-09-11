@@ -19,5 +19,8 @@
     "printWidth": 140,
     "trailingComma": "none",
     "arrowParens": "avoid"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }
