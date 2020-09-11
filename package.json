@@ -1,0 +1,23 @@
+{
+  "name": "zorro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "julienboz@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "robotjs": "^0.6.0",
+    "sleep": "^6.3.0"
+  },
+  "prettier": {
+    "tabWidth": 2,
+    "semi": true,
+    "singleQuote": true,
+    "printWidth": 140,
+    "trailingComma": "none",
+    "arrowParens": "avoid"
+  }
+}
