@@ -1,10 +1,13 @@
 {
-  "name": "zorro",
+  "name": "@jboz/zorro",
   "version": "1.0.0",
-  "description": "",
+  "description": "Signer à la pointe du curseur!",
+  "repository": {
+    "url": "https://github.com/jboz/zorro"
+  },
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "julienboz@gmail.com",
   "license": "MIT",
