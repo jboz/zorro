@@ -12,7 +12,7 @@
   "author": "julienboz@gmail.com",
   "license": "MIT",
   "dependencies": {
-    "robotjs": "^0.6.0",
+    "@jitsi/robotjs": "^0.6.17",
     "sleep": "^6.3.0"
   },
   "prettier": {

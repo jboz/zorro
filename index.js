@@ -1,5 +1,5 @@
 // Move the mouse across the screen as a sine wave.
-const robot = require('robotjs');
+const robot = require('@jitsi/robotjs');
 const { sleep } = require('sleep');
 const thread = require('sleep');
 
